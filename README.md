@@ -1,4 +1,4 @@
-# 🔥 Football Intelligent Scout System
+# Football Intelligent Scout System
 
 <div align="center">
 
@@ -698,35 +698,6 @@ scout_score = (
 | CAM | 15% | 40% | 10% | 35% |
 | WNG | 35% | 35% | 10% | 20% |
 | ST | 25% | 40% | 5% | 30% |
-
----
-
-## 🗺️ Roadmap
-
-### v1.0 (Current)
-- [x] Player detection with YOLO26
-- [x] Jersey number OCR
-- [x] Team classification
-- [x] Basic metrics calculation
-- [x] Highlight extraction
-
-### v1.1 (Q1 2026)
-- [ ] Action recognition (pass, shot, dribble, tackle)
-- [ ] Advanced metrics computation
-- [ ] Scout report generation
-- [ ] Player comparison tool
-
-### v1.2 (Q2 2026)
-- [ ] Player database & history
-- [ ] Multi-match aggregation
-- [ ] Similar player finder
-- [ ] Market value estimation
-
-### v2.0 (Q3 2026)
-- [ ] Real-time analysis (live matches)
-- [ ] Integration with external data (Transfermarkt, WhoScored)
-- [ ] Mobile app for scouts
-- [ ] API for clubs
 
 ---
 
