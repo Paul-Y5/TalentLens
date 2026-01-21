@@ -1,5 +1,5 @@
 [project]
-name = "gameanalytics"
+name = "talentlens"
 version = "0.1.0"
 description = "AI-powered football player scouting system"
 readme = "README.md"
@@ -41,10 +41,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USERNAME/GameAnalytics"
-Documentation = "https://github.com/YOUR_USERNAME/GameAnalytics#readme"
-Repository = "https://github.com/YOUR_USERNAME/GameAnalytics"
-Issues = "https://github.com/YOUR_USERNAME/GameAnalytics/issues"
+Homepage = "https://github.com/YOUR_USERNAME/TalentLens"
+Documentation = "https://github.com/YOUR_USERNAME/TalentLens#readme"
+Repository = "https://github.com/YOUR_USERNAME/TalentLens"
+Issues = "https://github.com/YOUR_USERNAME/TalentLens/issues"
 
 [build-system]
 requires = ["setuptools>=61.0", "wheel"]

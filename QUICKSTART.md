@@ -1,4 +1,4 @@
-# GameAnalytics - Football Intelligent Scout System
+# TalentLens - Football Intelligent Scout System
 
 AI-powered player scouting system using computer vision and machine learning.
 
@@ -15,8 +15,8 @@ AI-powered player scouting system using computer vision and machine learning.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/GameAnalytics.git
-cd GameAnalytics
+git clone https://github.com/YOUR_USERNAME/TalentLens.git
+cd TalentLens
 
 # Create virtual environment
 python -m venv .venv
@@ -33,7 +33,7 @@ python main.py
 ## Project Structure
 
 ```
-GameAnalytics/
+TalentLens/
     main.py              # Entry point
     requirements.txt     # Dependencies
     src/
